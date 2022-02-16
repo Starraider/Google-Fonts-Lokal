@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Google Fonts lokal speichern
-Plugin URI: https://www.webtimiser.de/webfonts-lokal-in-wordpress/
+Plugin URI: https://github.com/Starraider/Google-Fonts-Lokal.git
 Description: Fonts werden lokal eingebunden und Verbindung zu Google Fonts deaktivieren
 Author: Sven Kalbhenn
 Author URI: https://www.skom.de
